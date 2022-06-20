@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Jeff
+- 👀 I’m interested in growing my skills, getting involved in the community, and finding a team which I can intern with! 
+- 🌱 I’m currently learning Ruby on Rails and MySQL! 
+- 💞️ I’m looking to collaborate on Just about anything.
+- 📫 How to reach me: Shoot me an email at jefferson.butler@icloud.com 
