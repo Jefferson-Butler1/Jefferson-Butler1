@@ -33,6 +33,3 @@ Recent graduate from Lewis & Clark College (May 2025) with a degree in Computer 
 - **LinkedIn:** [Jefferson Butler](https://www.linkedin.com/in/jefferson-butler/)
 - **Location:** Portland, Oregon
 
----
-
-*"Hunched over my laptop at http://localhost:3000/index.html"* 💻
