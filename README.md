@@ -8,5 +8,5 @@ Recent graduate from Lewis & Clark College (May 2025) with a degree in Computer 
 - **Email:** jefferson.butler@icloud.com
 - **Threads:** @jeffeffreson
 - **LinkedIn:** [Jefferson Butler](https://www.linkedin.com/in/jefferson-butler/)
-- **Location:** Portland, Oregon
+- **Location:** Greater Seattle Area
 
